@@ -1,0 +1,105 @@
+.container {
+	width:100%;
+	height: auto;
+	background-image: url("images/sakura.png");
+	background-repeat: repeat;
+}
+.main {
+	width: 960px;
+	margin: 100px;
+}
+
+header {
+	background-color: #ffffff;
+	border-color: #cccccc;
+	width: 100%;
+	height: 100px;
+	font-family: 'Georgia', Times, serif;
+	border-bottom: 4px solid; 
+
+}
+li {
+	float: right;
+	display: inline;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	border-right: 1px solid #bbb;
+	color: #777777;
+	text-align: center;
+	padding: 30px;
+	margin: 10px;
+}
+#name {
+	float: left;
+	display: inline-block;
+	background: #4aaaa5;
+	width: 280px;
+	font-size: 24px;
+	padding: 30px 40px;
+	color: white;
+	font-family: 'Georgia', Times, serif;
+	text-align: center;
+}
+section {
+	width: 650px;
+	height: auto;
+	background-color: #ffffff;
+	border-color: #dddddd;
+
+}
+.sidebar {
+	width: 270px;
+	height: auto;
+	background: #ffffff;
+	float: right;
+	margin-left: 60%;
+	padding-left: 10px;
+	padding-right: 10px;
+	border-color: 2px solid #cccccc;
+}
+footer{
+	height: 100px;
+	width: 100%;
+	background-color: #666666;
+	text-align: center;
+	border-top: 10px solid #4aaaa5;
+	line-height: 100px;
+	vertical-align: middle;
+	color: #abb;
+	bottom: 0;
+	position: relative;
+}
+h1 {
+	font-size: 25px;
+	font-weight: bold;
+	font-family: 'Georgia', Times, serif;
+}
+form {
+	width: 200px;
+	height: 250px;
+	text-align: center;
+	font-size: 15px;
+	font-family: 'Georgia', Times, serif;
+}
+.Picture {
+	position: relative;
+	float: left;
+	font-size: 25px;
+}
+.Picture2 {
+	position: relative;
+	float: left;
+	font-size: 25px;
+}
+.Picture3 {
+	font-size: 25px;
+}
+.Picture4 { 
+	position: relative;
+	float: left;
+	font-size: 25px;
+}
+.Picture5 {
+	font-size: 25px;
+}
